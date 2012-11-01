@@ -1,4 +1,4 @@
-first_app
-=========
+#Ruby on Rails Tutorial: first application
 
-Course Ruby on rails by Michael Hartl
+This is the first application for the [*Ruby on Rails Tutorial](http://www.railstutorial.org/) by
+[Michael Hartl](http://michaelhartl.com).
